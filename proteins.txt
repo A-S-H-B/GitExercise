@@ -4,3 +4,4 @@ Hemoglobin-a	Human	HBA_HUMAN	P69905	142
 Hemoglobin-b	Human	HBB_HUMAN	P68871	147
 PFKM		Human	pfkam_human	P08327	780
 Pfkm		Mouse	PFKAM_MOUSE	P47857	780
+PFKM		Rat	PFKAM_RAT	P47858	780
